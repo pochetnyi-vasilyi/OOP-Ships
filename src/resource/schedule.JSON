@@ -1,0 +1,704 @@
+{
+  "Ships": [
+    {
+      "Departure date": "2021-05-20 21:53:19.482",
+      "Arrival date": "2021-05-01 09:53:19.482",
+      "Weight of cargo": 156,
+      "Type of cargo": "liquid",
+      "Name of ship": "MV Radcliffe R Latimer"
+    },
+    {
+      "Departure date": "2021-05-01 21:00:07.841",
+      "Arrival date": "2021-05-01 18:00:07.841",
+      "Weight of cargo": 3,
+      "Type of cargo": "container",
+      "Name of ship": "Histria Azure"
+    },
+    {
+      "Departure date": "2021-05-13 11:38:51.237",
+      "Arrival date": "2021-05-02 01:38:51.237",
+      "Weight of cargo": 137,
+      "Type of cargo": "bulk",
+      "Name of ship": "Astron"
+    },
+    {
+      "Departure date": "2021-05-12 02:14:37.337",
+      "Arrival date": "2021-05-02 06:14:37.337",
+      "Weight of cargo": 118,
+      "Type of cargo": "bulk",
+      "Name of ship": "USS Bali"
+    },
+    {
+      "Departure date": "2021-05-10 13:42:55.864",
+      "Arrival date": "2021-05-02 10:42:55.864",
+      "Weight of cargo": 65,
+      "Type of cargo": "liquid",
+      "Name of ship": "USS Arkab"
+    },
+    {
+      "Departure date": "2021-05-03 13:02:21.704",
+      "Arrival date": "2021-05-03 01:02:21.704",
+      "Weight of cargo": 6,
+      "Type of cargo": "bulk",
+      "Name of ship": "MV Burns Harbor"
+    },
+    {
+      "Departure date": "2021-05-27 10:14:15.832",
+      "Arrival date": "2021-05-03 04:14:15.832",
+      "Weight of cargo": 291,
+      "Type of cargo": "bulk",
+      "Name of ship": "MSC Monterey"
+    },
+    {
+      "Departure date": "2021-05-08 04:06:22.609",
+      "Arrival date": "2021-05-03 11:06:22.609",
+      "Weight of cargo": 113,
+      "Type of cargo": "container",
+      "Name of ship": "SS Western Reserve"
+    },
+    {
+      "Departure date": "2021-05-11 18:25:32.723",
+      "Arrival date": "2021-05-03 20:25:32.723",
+      "Weight of cargo": 95,
+      "Type of cargo": "bulk",
+      "Name of ship": "SS Prospector"
+    },
+    {
+      "Departure date": "2021-05-16 22:29:24.388",
+      "Arrival date": "2021-05-03 22:29:24.388",
+      "Weight of cargo": 156,
+      "Type of cargo": "bulk",
+      "Name of ship": "SS Willis L. King"
+    },
+    {
+      "Departure date": "2021-05-06 02:42:35.944",
+      "Arrival date": "2021-05-04 06:42:35.944",
+      "Weight of cargo": 22,
+      "Type of cargo": "bulk",
+      "Name of ship": "SS William C. Moreland"
+    },
+    {
+      "Departure date": "2021-05-27 09:16:11.376",
+      "Arrival date": "2021-05-04 09:16:11.376",
+      "Weight of cargo": 184,
+      "Type of cargo": "liquid",
+      "Name of ship": "MV Ancylus"
+    },
+    {
+      "Departure date": "2021-05-24 02:32:27.872",
+      "Arrival date": "2021-05-04 12:32:27.872",
+      "Weight of cargo": 235,
+      "Type of cargo": "bulk",
+      "Name of ship": "USS Adhara"
+    },
+    {
+      "Departure date": "2021-05-12 09:11:14.571",
+      "Arrival date": "2021-05-04 14:11:14.571",
+      "Weight of cargo": 187,
+      "Type of cargo": "container",
+      "Name of ship": "SS William Clay Ford"
+    },
+    {
+      "Departure date": "2021-05-15 23:41:22.651",
+      "Arrival date": "2021-05-05 08:41:22.651",
+      "Weight of cargo": 85,
+      "Type of cargo": "liquid",
+      "Name of ship": "Maharshi Krishnatreya"
+    },
+    {
+      "Departure date": "2021-05-27 20:52:43.316",
+      "Arrival date": "2021-05-05 22:52:43.316",
+      "Weight of cargo": 263,
+      "Type of cargo": "bulk",
+      "Name of ship": "USS Sherman"
+    },
+    {
+      "Departure date": "2021-05-14 17:34:35.985",
+      "Arrival date": "2021-05-06 01:34:35.985",
+      "Weight of cargo": 104,
+      "Type of cargo": "bulk",
+      "Name of ship": "MS Stolt Surf"
+    },
+    {
+      "Departure date": "2021-05-27 16:07:19.292",
+      "Arrival date": "2021-05-06 13:07:19.292",
+      "Weight of cargo": 169,
+      "Type of cargo": "liquid",
+      "Name of ship": "SS St. Marys Challenger"
+    },
+    {
+      "Departure date": "2021-05-27 08:42:38.36",
+      "Arrival date": "2021-05-07 02:42:38.36",
+      "Weight of cargo": 243,
+      "Type of cargo": "bulk",
+      "Name of ship": "MSC Rosaria"
+    },
+    {
+      "Departure date": "2021-05-13 20:20:03.739",
+      "Arrival date": "2021-05-07 10:20:03.739",
+      "Weight of cargo": 154,
+      "Type of cargo": "container",
+      "Name of ship": "MV Ranga"
+    },
+    {
+      "Departure date": "2021-05-25 11:20:10.968",
+      "Arrival date": "2021-05-07 13:20:10.968",
+      "Weight of cargo": 215,
+      "Type of cargo": "bulk",
+      "Name of ship": "MV Amastra"
+    },
+    {
+      "Departure date": "2021-06-01 09:15:42.873",
+      "Arrival date": "2021-05-07 15:15:42.873",
+      "Weight of cargo": 297,
+      "Type of cargo": "bulk",
+      "Name of ship": "SS W.H. Gilcher"
+    },
+    {
+      "Departure date": "2021-05-20 01:20:21.358",
+      "Arrival date": "2021-05-08 04:20:21.358",
+      "Weight of cargo": 95,
+      "Type of cargo": "liquid",
+      "Name of ship": "MSC Napoli"
+    },
+    {
+      "Departure date": "2021-05-18 17:09:55.407",
+      "Arrival date": "2021-05-08 07:09:55.407",
+      "Weight of cargo": 250,
+      "Type of cargo": "container",
+      "Name of ship": "MOL Enterprise"
+    },
+    {
+      "Departure date": "2021-05-19 10:55:17.364",
+      "Arrival date": "2021-05-08 10:55:17.364",
+      "Weight of cargo": 132,
+      "Type of cargo": "bulk",
+      "Name of ship": "U-Sea Colonsay"
+    },
+    {
+      "Departure date": "2021-05-25 14:16:16.381",
+      "Arrival date": "2021-05-09 02:16:16.381",
+      "Weight of cargo": 198,
+      "Type of cargo": "bulk",
+      "Name of ship": "USS Azimech"
+    },
+    {
+      "Departure date": "2021-06-07 13:07:52.282",
+      "Arrival date": "2021-05-09 10:07:52.282",
+      "Weight of cargo": 233,
+      "Type of cargo": "liquid",
+      "Name of ship": "USS Azimech"
+    },
+    {
+      "Departure date": "2021-06-06 11:20:35.942",
+      "Arrival date": "2021-05-09 11:20:35.942",
+      "Weight of cargo": 224,
+      "Type of cargo": "liquid",
+      "Name of ship": "SS Atlantic Conveyor"
+    },
+    {
+      "Departure date": "2021-05-30 18:39:55.259",
+      "Arrival date": "2021-05-09 12:39:55.259",
+      "Weight of cargo": 255,
+      "Type of cargo": "bulk",
+      "Name of ship": "MV Ranga"
+    },
+    {
+      "Departure date": "2021-05-15 13:17:30.276",
+      "Arrival date": "2021-05-09 13:17:30.276",
+      "Weight of cargo": 48,
+      "Type of cargo": "liquid",
+      "Name of ship": "MV Stolt Strength"
+    },
+    {
+      "Departure date": "2021-05-18 01:02:18.711",
+      "Arrival date": "2021-05-09 23:02:18.711",
+      "Weight of cargo": 97,
+      "Type of cargo": "bulk",
+      "Name of ship": "MV Sirius Star"
+    },
+    {
+      "Departure date": "2021-05-20 19:43:17.481",
+      "Arrival date": "2021-05-10 03:43:17.481",
+      "Weight of cargo": 256,
+      "Type of cargo": "container",
+      "Name of ship": "SS Carl D. Bradley"
+    },
+    {
+      "Departure date": "2021-05-20 09:27:09.78",
+      "Arrival date": "2021-05-10 06:27:09.78",
+      "Weight of cargo": 243,
+      "Type of cargo": "container",
+      "Name of ship": "MV Federal Oshima"
+    },
+    {
+      "Departure date": "2021-05-16 05:32:22.411",
+      "Arrival date": "2021-05-10 06:32:22.411",
+      "Weight of cargo": 143,
+      "Type of cargo": "container",
+      "Name of ship": "MV Empire MacCabe"
+    },
+    {
+      "Departure date": "2021-05-21 09:39:20.573",
+      "Arrival date": "2021-05-10 12:39:20.573",
+      "Weight of cargo": 261,
+      "Type of cargo": "container",
+      "Name of ship": "MV Empire MacKay"
+    },
+    {
+      "Departure date": "2021-05-16 01:15:15.076",
+      "Arrival date": "2021-05-11 02:15:15.076",
+      "Weight of cargo": 119,
+      "Type of cargo": "container",
+      "Name of ship": "USS Alderamin"
+    },
+    {
+      "Departure date": "2021-05-20 14:14:02.324",
+      "Arrival date": "2021-05-11 18:14:02.324",
+      "Weight of cargo": 106,
+      "Type of cargo": "bulk",
+      "Name of ship": "MV eut Strait"
+    },
+    {
+      "Departure date": "2021-05-12 21:40:15.479",
+      "Arrival date": "2021-05-11 21:40:15.479",
+      "Weight of cargo": 24,
+      "Type of cargo": "container",
+      "Name of ship": "SS L.R. Doty"
+    },
+    {
+      "Departure date": "2021-06-14 04:18:21.146",
+      "Arrival date": "2021-05-11 22:18:21.146",
+      "Weight of cargo": 266,
+      "Type of cargo": "liquid",
+      "Name of ship": "MV Capt. Steven L. Bennett"
+    },
+    {
+      "Departure date": "2021-05-16 05:48:30.953",
+      "Arrival date": "2021-05-12 05:48:30.953",
+      "Weight of cargo": 32,
+      "Type of cargo": "liquid",
+      "Name of ship": "MSC Leigh"
+    },
+    {
+      "Departure date": "2021-05-29 07:49:19.944",
+      "Arrival date": "2021-05-12 07:49:19.944",
+      "Weight of cargo": 204,
+      "Type of cargo": "bulk",
+      "Name of ship": "SS Galeic"
+    },
+    {
+      "Departure date": "2021-05-25 11:52:50.482",
+      "Arrival date": "2021-05-12 07:52:50.482",
+      "Weight of cargo": 158,
+      "Type of cargo": "bulk",
+      "Name of ship": "MSC Monterey"
+    },
+    {
+      "Departure date": "2021-05-16 08:03:05.136",
+      "Arrival date": "2021-05-12 09:03:05.136",
+      "Weight of cargo": 95,
+      "Type of cargo": "container",
+      "Name of ship": "USS Allegan"
+    },
+    {
+      "Departure date": "2021-06-03 14:25:07.703",
+      "Arrival date": "2021-05-12 20:25:07.703",
+      "Weight of cargo": 261,
+      "Type of cargo": "bulk",
+      "Name of ship": "Arnold Maersk"
+    },
+    {
+      "Departure date": "2021-05-25 00:38:55.333",
+      "Arrival date": "2021-05-13 02:38:55.333",
+      "Weight of cargo": 143,
+      "Type of cargo": "bulk",
+      "Name of ship": "MV Adula"
+    },
+    {
+      "Departure date": "2021-05-14 11:57:19.255",
+      "Arrival date": "2021-05-13 20:57:19.255",
+      "Weight of cargo": 15,
+      "Type of cargo": "container",
+      "Name of ship": "SS Hydrus"
+    },
+    {
+      "Departure date": "2021-06-01 04:09:13.166",
+      "Arrival date": "2021-05-14 01:09:13.166",
+      "Weight of cargo": 145,
+      "Type of cargo": "liquid",
+      "Name of ship": "Shuttle tanker"
+    },
+    {
+      "Departure date": "2021-06-01 23:48:01.283",
+      "Arrival date": "2021-05-14 17:48:01.283",
+      "Weight of cargo": 219,
+      "Type of cargo": "bulk",
+      "Name of ship": "MV Sam Laud"
+    },
+    {
+      "Departure date": "2021-05-15 22:24:17.462",
+      "Arrival date": "2021-05-14 21:24:17.462",
+      "Weight of cargo": 25,
+      "Type of cargo": "container",
+      "Name of ship": "MV Whitefish Bay"
+    },
+    {
+      "Departure date": "2021-06-17 08:07:33.669",
+      "Arrival date": "2021-05-15 02:07:33.669",
+      "Weight of cargo": 266,
+      "Type of cargo": "liquid",
+      "Name of ship": "MV Edwin H Got"
+    },
+    {
+      "Departure date": "2021-05-17 21:40:30.083",
+      "Arrival date": "2021-05-15 05:40:30.083",
+      "Weight of cargo": 32,
+      "Type of cargo": "bulk",
+      "Name of ship": "Histria Azure"
+    },
+    {
+      "Departure date": "2021-05-16 22:29:42.07",
+      "Arrival date": "2021-05-15 10:29:42.07",
+      "Weight of cargo": 18,
+      "Type of cargo": "bulk",
+      "Name of ship": "MSC Cordoba"
+    },
+    {
+      "Departure date": "2021-05-30 08:09:40.44",
+      "Arrival date": "2021-05-15 12:09:40.44",
+      "Weight of cargo": 178,
+      "Type of cargo": "bulk",
+      "Name of ship": "MV Amastra"
+    },
+    {
+      "Departure date": "2021-05-28 04:25:57.582",
+      "Arrival date": "2021-05-15 18:25:57.582",
+      "Weight of cargo": 149,
+      "Type of cargo": "bulk",
+      "Name of ship": "SS Willam G Mather"
+    },
+    {
+      "Departure date": "2021-06-21 07:50:53.478",
+      "Arrival date": "2021-05-16 04:50:53.478",
+      "Weight of cargo": 289,
+      "Type of cargo": "liquid",
+      "Name of ship": "Thomas W. Lawson"
+    },
+    {
+      "Departure date": "2021-06-18 03:09:27.065",
+      "Arrival date": "2021-05-17 03:09:27.065",
+      "Weight of cargo": 256,
+      "Type of cargo": "liquid",
+      "Name of ship": "Histria Azure"
+    },
+    {
+      "Departure date": "2021-06-04 19:30:12.764",
+      "Arrival date": "2021-05-17 03:30:12.764",
+      "Weight of cargo": 224,
+      "Type of cargo": "bulk",
+      "Name of ship": "USS Adhara"
+    },
+    {
+      "Departure date": "2021-05-25 10:34:41.319",
+      "Arrival date": "2021-05-17 08:34:41.319",
+      "Weight of cargo": 194,
+      "Type of cargo": "container",
+      "Name of ship": "SS Hydrus"
+    },
+    {
+      "Departure date": "2021-05-24 19:03:42.75",
+      "Arrival date": "2021-05-18 01:03:42.75",
+      "Weight of cargo": 81,
+      "Type of cargo": "bulk",
+      "Name of ship": "SS Florida"
+    },
+    {
+      "Departure date": "2021-05-29 04:33:31.902",
+      "Arrival date": "2021-05-18 06:33:31.902",
+      "Weight of cargo": 262,
+      "Type of cargo": "container",
+      "Name of ship": "MV Sea Star"
+    },
+    {
+      "Departure date": "2021-05-23 11:27:14.3",
+      "Arrival date": "2021-05-19 05:27:14.3",
+      "Weight of cargo": 51,
+      "Type of cargo": "bulk",
+      "Name of ship": "SS Desabla"
+    },
+    {
+      "Departure date": "2021-05-20 17:19:03.072",
+      "Arrival date": "2021-05-19 07:19:03.072",
+      "Weight of cargo": 34,
+      "Type of cargo": "container",
+      "Name of ship": "MV Mississagi"
+    },
+    {
+      "Departure date": "2021-06-08 04:16:45.38",
+      "Arrival date": "2021-05-20 04:16:45.38",
+      "Weight of cargo": 152,
+      "Type of cargo": "liquid",
+      "Name of ship": "MV Burns Harbor"
+    },
+    {
+      "Departure date": "2021-05-25 13:59:53.675",
+      "Arrival date": "2021-05-20 14:59:53.675",
+      "Weight of cargo": 119,
+      "Type of cargo": "container",
+      "Name of ship": "SS Ideal X"
+    },
+    {
+      "Departure date": "2021-06-11 08:47:26.846",
+      "Arrival date": "2021-05-20 17:47:26.846",
+      "Weight of cargo": 173,
+      "Type of cargo": "liquid",
+      "Name of ship": "MV Adula"
+    },
+    {
+      "Departure date": "2021-06-13 18:50:52.457",
+      "Arrival date": "2021-05-21 18:50:52.457",
+      "Weight of cargo": 276,
+      "Type of cargo": "bulk",
+      "Name of ship": "SS Gallic"
+    },
+    {
+      "Departure date": "2021-05-27 08:18:42.289",
+      "Arrival date": "2021-05-21 20:18:42.289",
+      "Weight of cargo": 66,
+      "Type of cargo": "bulk",
+      "Name of ship": "USS Albireo"
+    },
+    {
+      "Departure date": "2021-05-23 16:32:51.65",
+      "Arrival date": "2021-05-21 22:32:51.65",
+      "Weight of cargo": 42,
+      "Type of cargo": "container",
+      "Name of ship": "MV Baie Comeau"
+    },
+    {
+      "Departure date": "2021-05-23 21:43:11.95",
+      "Arrival date": "2021-05-22 00:43:11.95",
+      "Weight of cargo": 45,
+      "Type of cargo": "container",
+      "Name of ship": "MV Federal Oshima"
+    },
+    {
+      "Departure date": "2021-06-09 11:31:06.762",
+      "Arrival date": "2021-05-22 08:31:06.762",
+      "Weight of cargo": 145,
+      "Type of cargo": "liquid",
+      "Name of ship": "SS Fredericksburg"
+    },
+    {
+      "Departure date": "2021-06-03 12:35:55.009",
+      "Arrival date": "2021-05-22 21:35:55.009",
+      "Weight of cargo": 279,
+      "Type of cargo": "container",
+      "Name of ship": "USS Arkab"
+    },
+    {
+      "Departure date": "2021-05-30 18:12:11.119",
+      "Arrival date": "2021-05-23 12:12:11.119",
+      "Weight of cargo": 58,
+      "Type of cargo": "liquid",
+      "Name of ship": "SS Saginaw"
+    },
+    {
+      "Departure date": "2021-05-26 18:31:36.238",
+      "Arrival date": "2021-05-23 18:31:36.238",
+      "Weight of cargo": 36,
+      "Type of cargo": "bulk",
+      "Name of ship": "USS Alderamin"
+    },
+    {
+      "Departure date": "2021-05-24 23:22:19.472",
+      "Arrival date": "2021-05-23 19:22:19.472",
+      "Weight of cargo": 14,
+      "Type of cargo": "bulk",
+      "Name of ship": "Maharshi Krishnatreya"
+    },
+    {
+      "Departure date": "2021-05-26 13:19:40.807",
+      "Arrival date": "2021-05-24 01:19:40.807",
+      "Weight of cargo": 30,
+      "Type of cargo": "bulk",
+      "Name of ship": "MV Tecumseh"
+    },
+    {
+      "Departure date": "2021-05-29 20:25:17.178",
+      "Arrival date": "2021-05-24 02:25:17.178",
+      "Weight of cargo": 46,
+      "Type of cargo": "liquid",
+      "Name of ship": "Truelove"
+    },
+    {
+      "Departure date": "2021-05-28 15:52:26.896",
+      "Arrival date": "2021-05-24 10:52:26.896",
+      "Weight of cargo": 101,
+      "Type of cargo": "container",
+      "Name of ship": "MV Burns Harbor"
+    },
+    {
+      "Departure date": "2021-06-01 19:30:54.28",
+      "Arrival date": "2021-05-24 11:30:54.28",
+      "Weight of cargo": 200,
+      "Type of cargo": "container",
+      "Name of ship": "SS Thomas F. Cole"
+    },
+    {
+      "Departure date": "2021-06-15 11:38:02.072",
+      "Arrival date": "2021-05-24 14:38:02.072",
+      "Weight of cargo": 175,
+      "Type of cargo": "liquid",
+      "Name of ship": "SS American Victory"
+    },
+    {
+      "Departure date": "2021-05-24 18:46:24.799",
+      "Arrival date": "2021-05-24 15:46:24.799",
+      "Weight of cargo": 1,
+      "Type of cargo": "liquid",
+      "Name of ship": "SS Bessemer Victory"
+    },
+    {
+      "Departure date": "2021-06-02 22:55:11.085",
+      "Arrival date": "2021-05-24 16:55:11.085",
+      "Weight of cargo": 111,
+      "Type of cargo": "bulk",
+      "Name of ship": "SS Daniel J. Morrell"
+    },
+    {
+      "Departure date": "2021-06-11 14:49:15.94",
+      "Arrival date": "2021-05-24 17:49:15.94",
+      "Weight of cargo": 143,
+      "Type of cargo": "liquid",
+      "Name of ship": "MV Paul R Tregutrhua"
+    },
+    {
+      "Departure date": "2021-05-30 23:51:53.624",
+      "Arrival date": "2021-05-25 13:51:53.624",
+      "Weight of cargo": 65,
+      "Type of cargo": "bulk",
+      "Name of ship": "MSC Nuria"
+    },
+    {
+      "Departure date": "2021-06-13 16:39:54.258",
+      "Arrival date": "2021-05-25 22:39:54.258",
+      "Weight of cargo": 150,
+      "Type of cargo": "liquid",
+      "Name of ship": "MV American Courage"
+    },
+    {
+      "Departure date": "2021-06-15 19:21:28.569",
+      "Arrival date": "2021-05-26 01:21:28.569",
+      "Weight of cargo": 249,
+      "Type of cargo": "bulk",
+      "Name of ship": "SS Daniel J. Morrell"
+    },
+    {
+      "Departure date": "2021-06-11 23:05:08.565",
+      "Arrival date": "2021-05-26 03:05:08.565",
+      "Weight of cargo": 202,
+      "Type of cargo": "bulk",
+      "Name of ship": "Federal Rideau"
+    },
+    {
+      "Departure date": "2021-06-01 08:25:19.878",
+      "Arrival date": "2021-05-26 14:25:19.878",
+      "Weight of cargo": 138,
+      "Type of cargo": "container",
+      "Name of ship": "Umm Slal"
+    },
+    {
+      "Departure date": "2021-06-01 02:53:56.153",
+      "Arrival date": "2021-05-26 17:53:56.153",
+      "Weight of cargo": 43,
+      "Type of cargo": "liquid",
+      "Name of ship": "MV Macoma"
+    },
+    {
+      "Departure date": "2021-06-13 00:08:24.647",
+      "Arrival date": "2021-05-27 16:08:24.647",
+      "Weight of cargo": 196,
+      "Type of cargo": "bulk",
+      "Name of ship": "Maharshi Bhardwaj"
+    },
+    {
+      "Departure date": "2021-06-06 10:34:15.929",
+      "Arrival date": "2021-05-27 18:34:15.929",
+      "Weight of cargo": 232,
+      "Type of cargo": "container",
+      "Name of ship": "USS Bali"
+    },
+    {
+      "Departure date": "2021-07-04 00:25:12.8",
+      "Arrival date": "2021-05-28 12:25:12.8",
+      "Weight of cargo": 292,
+      "Type of cargo": "liquid",
+      "Name of ship": "MV Empire MacKay"
+    },
+    {
+      "Departure date": "2021-06-17 12:12:11.885",
+      "Arrival date": "2021-05-28 22:12:11.885",
+      "Weight of cargo": 235,
+      "Type of cargo": "bulk",
+      "Name of ship": "SS Frank O'Connor"
+    },
+    {
+      "Departure date": "2021-06-03 04:15:00.326",
+      "Arrival date": "2021-05-29 00:15:00.326",
+      "Weight of cargo": 62,
+      "Type of cargo": "bulk",
+      "Name of ship": "Al Rekayyat"
+    },
+    {
+      "Departure date": "2021-06-27 06:03:07.268",
+      "Arrival date": "2021-05-29 06:03:07.268",
+      "Weight of cargo": 232,
+      "Type of cargo": "liquid",
+      "Name of ship": "SS Ideal X"
+    },
+    {
+      "Departure date": "2021-06-29 09:11:36.016",
+      "Arrival date": "2021-05-29 18:11:36.016",
+      "Weight of cargo": 245,
+      "Type of cargo": "liquid",
+      "Name of ship": "MSC Cordoba"
+    },
+    {
+      "Departure date": "2021-06-20 13:20:01.712",
+      "Arrival date": "2021-05-30 09:20:01.712",
+      "Weight of cargo": 254,
+      "Type of cargo": "bulk",
+      "Name of ship": "Shuttle tanker"
+    },
+    {
+      "Departure date": "2021-06-16 14:07:04.858",
+      "Arrival date": "2021-05-30 10:07:04.858",
+      "Weight of cargo": 206,
+      "Type of cargo": "bulk",
+      "Name of ship": "MV Acavus"
+    },
+    {
+      "Departure date": "2021-06-10 09:04:15.249",
+      "Arrival date": "2021-05-30 12:04:15.249",
+      "Weight of cargo": 87,
+      "Type of cargo": "liquid",
+      "Name of ship": "SS Georgic"
+    },
+    {
+      "Departure date": "2021-07-05 04:58:32.072",
+      "Arrival date": "2021-05-30 16:58:32.072",
+      "Weight of cargo": 284,
+      "Type of cargo": "liquid",
+      "Name of ship": "MV American Mariner"
+    },
+    {
+      "Departure date": "2021-06-10 01:48:51.65",
+      "Arrival date": "2021-05-30 17:48:51.65",
+      "Weight of cargo": 248,
+      "Type of cargo": "container",
+      "Name of ship": "MV Algocape"
+    }
+  ]
+}
